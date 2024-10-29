@@ -20,4 +20,4 @@ Method: POST
 URL: http://localhost:3000/calculateSecretCode (replace 3000 with the correct port if different)
 Body: In the body, add the required inputs as JSON.
 Click Send and review the response to see the output of your calculateSecretCode logic.
-6. Run Test Cases (Optional)
+
